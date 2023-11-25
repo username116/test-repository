@@ -5,3 +5,5 @@ My first repository for testing with Git.
 Adding text.
 
 This text has been added to branch 2.
+
+And this is added to branch 2.
